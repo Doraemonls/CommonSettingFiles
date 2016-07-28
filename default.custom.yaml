@@ -1,0 +1,11 @@
+patch:
+  schema_list:
+    - schema: double_pinyin_flypy   # 新增小鹤双拼
+    - schema: luna_pinyin
+    - schema: cangjie5
+    - schema: luna_pinyin_fluency
+    - schema: luna_pinyin_simp
+    - schema: luna_pinyin_tw
+  menu/page_size: 9
+
+

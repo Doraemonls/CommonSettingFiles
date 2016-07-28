@@ -1,0 +1,3 @@
+patch:
+  translator/preedit_format: {}     # 输入双拼码的时候不转化为全拼码
+
