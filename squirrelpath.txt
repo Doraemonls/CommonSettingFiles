@@ -1,0 +1,2 @@
+Windows: C:\Users\{username}\AppData\Roaming\Rime
+Mac: ~/Library/Rime/
